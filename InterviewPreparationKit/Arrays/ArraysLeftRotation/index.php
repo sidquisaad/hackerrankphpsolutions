@@ -1,6 +1,12 @@
 <?php
 
-// Complete the hourglassSum function below.
+/*
+ * @Author: sidquisaad 
+ * @Date: 2020-03-09 21:01:14 
+ * @Last Modified by: sidquisaad
+ * @Last Modified time: 2020-03-10 17:28:26
+ */
+
 // Complete the rotLeft function below.
 function rotLeft($a, $d) {
     // Since d is alwasy <= count($a). If d equals n then the array is unchanged.

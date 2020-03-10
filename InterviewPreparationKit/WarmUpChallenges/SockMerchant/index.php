@@ -1,5 +1,12 @@
 <?php
 
+/*
+ * @Author: sidquisaad 
+ * @Date: 2020-03-09 18:46:54
+ * @Last Modified by:   sidquisaad 
+ * @Last Modified time: 2020-03-10 17:30:23 
+ */
+
 // Complete the sockMerchant function below.
 function sockMerchant($n, $ar) {
     $pairs = 0;

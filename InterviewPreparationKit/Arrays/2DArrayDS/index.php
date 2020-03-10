@@ -1,5 +1,12 @@
 <?php
 
+/*
+ * @Author: sidquisaad 
+ * @Date: 2020-03-09 20:41:03 
+ * @Last Modified by: sidquisaad
+ * @Last Modified time: 2020-03-10 17:28:03
+ */
+
 // Complete the hourglassSum function below.
 function hourglassSum($arr) {
     $max = null;

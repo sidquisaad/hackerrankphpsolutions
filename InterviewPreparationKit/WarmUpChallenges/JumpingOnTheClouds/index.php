@@ -1,5 +1,12 @@
 <?php
 
+/*
+ * @Author: sidquisaad 
+ * @Date: 2020-03-09 18:16:42
+ * @Last Modified by: sidquisaad
+ * @Last Modified time: 2020-03-10 17:29:38
+ */
+
 // Complete the jumpingOnClouds function below.
 function jumpingOnClouds($c) {
     $n = count($c);

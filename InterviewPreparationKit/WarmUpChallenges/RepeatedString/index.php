@@ -1,5 +1,12 @@
 <?php
 
+/*
+ * @Author: sidquisaad 
+ * @Date: 2020-03-09 18:23:34
+ * @Last Modified by: sidquisaad
+ * @Last Modified time: 2020-03-10 17:30:06
+ */
+
 // Complete the repeatedString function below.
 function repeatedString($s, $n) {
     $len = strlen($s);
