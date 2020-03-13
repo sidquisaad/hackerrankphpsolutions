@@ -55,11 +55,8 @@ for ($i = 0; $i < $m; $i++) {
 }
 
 $result = arrayManipulation($n, $queries);
-$result2 = arrayManipulation2($n, $queries);
-
 
 echo 'Result : ' . $result;
-echo "\nResult2 : " . $result2;
 fclose($fptr);
 
 $fptr = fopen(__DIR__ . '/result.txt', "w");
